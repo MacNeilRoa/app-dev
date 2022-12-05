@@ -1,7 +1,10 @@
 # app-dev
 My first repository
+
 **This is information about my favorite series/movie**
+
 *My 3 favorite movies with descriptions*
+
 - Zombieland: Double Tap
 > Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.
 > Plot. Six years after the events of the first film, survivors Tallahassee, Columbus, Wichita, and Little Rock have become experts in identifying and disposing of various zombies. Since then, they have set up their new home in the abandoned White House.
